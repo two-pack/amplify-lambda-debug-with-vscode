@@ -1,0 +1,9 @@
+{
+  "function": {
+    "debugfunc": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
